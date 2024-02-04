@@ -1,0 +1,15 @@
+{
+  "name": "imd3901_tp",
+  "version": "1.0.0",
+  "description": "An Upcoming WebXR VR Project using Circles framework, A-Frame, and Node.js to craft a multi-platform VR experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^1.5.0"
+  }
+}
